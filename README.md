@@ -1,4 +1,4 @@
 # apnacollege-demo
 this is my first repo
 <br>
-author-pandeyjiiii
+author-pandeyjiiii(frontend developer)
